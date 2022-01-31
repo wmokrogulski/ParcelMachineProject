@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="root">
+    <file>images/mapa_dzielnic_bez_nazw.png</file>
+  </qresource>
+</RCC>
